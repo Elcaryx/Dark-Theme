@@ -1,25 +1,6 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">  <image id="image0" width="100" height="100" x="0" y="0"
-    xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAQAAADa613fAAAAAmJLR0QA/4ePzL8AAAAJcEhZcwAA
-LiMAAC4jAXilP3YAAAAHdElNRQflBRURLxw+g6UpAAAC6ElEQVR42u2c23brIAxELVb+/5d9Htoe
-14mBGWkExI2ecgGNdoSBGLDtm9Rwd6YVNhFIxI0EKQ6iSmkQJwYibpcRGD+IGiII4wPJggjA8CDZ
-EE4YDmQUhAOmLIxBKaIZYSFav6XSFwmSM15LvSIgmKB3DBB574P0hRRTjLBKD6QnoJz6hbTavdZI
-jL63ZjStjLQxxNPwqGodpOXQ1zfhtRzaNRAFxi6u2/RRNG5gH+jYQQ+oBS0owUhEYeZamoahQQFA
-6jJZ/ZQH5SXK0ivgwFDOkmEUtGlps8GggspnkJrA+EaFqJ+iRTIyFwOM4DfI7nUyDeVXxFz3GxHl
-StB2gKycj3ok/6POyMgU+wHR5sMC37L19jOIUrBdN8frN0jGHSu7/Czjmtu3bdseHvondGt62Dul
-cH9f31V+9Mfmsf3y3XUAOMDxmfMmNnuhK25J+H1Uon3QjuJBxszwf4hvaTcHWWdiAkdXHC06H5NX
-2H3dr23LLYb6QLJgQsvTr8Gw7hQ4YU1/Rp6D8OKIrjgFyBFQyurgaBAWRtz36QdELEB5F37zkf0N
-7QOymn1AVjM9CDaOyKecn4ysZuyq7hoWXtV1SYRLQnbrpvWOZuVyHupNO1dPqnKXjNwfRLt7YcCG
-wbLp/q217up3l5dDZvlNyy5epVgdZM3xvRrVF0jWzl1rvOsERpgdICT9NGtE9AOSezFmYtgZJEPE
-gE9kP9YBsnpOOku2txzZ/TnBtyp7G1d3CR3JyPzmBURwBoF2DwbNsT6IeEKvkXkrH6DyM4hn40Y8
-Xx7fT5GWXgFXwKqNZ8R2aq77HXvZU2pXIOyRByPq4zXIMxP8Fg5NViLnqYiDMCyKgTWv67zWEB5N
-6rl7o8Nifad6mIBe8VaEhIdh/KEjrphIBGfYoWNcjMUZfgycE+1LTzyY7wtAYXCGmbnWSsf3Xov+
-zceJjIIZ8oCXbJihj9zJgpnyECQ1zNTHUmlwFnlQmBdJ3Jn/A2tNuKhZPplAAAAAJXRFWHRkYXRl
-OmNyZWF0ZQAyMDIxLTA1LTIxVDE3OjQ3OjI4KzAzOjAwjmzn/wAAACV0RVh0ZGF0ZTptb2RpZnkA
-MjAyMS0wNS0yMVQxNzo0NzoyOCswMzowMP8xX0MAAAA3dEVYdGljYzpjb3B5cmlnaHQAQ29weXJp
-Z2h0IDE5OTkgQWRvYmUgU3lzdGVtcyBJbmNvcnBvcmF0ZWQxbP9tAAAAIHRFWHRpY2M6ZGVzY3Jp
-cHRpb24AQWRvYmUgUkdCICgxOTk4KbC66vYAAAAhdEVYdGljYzptYW51ZmFjdHVyZXIAQWRvYmUg
-UkdCICgxOTk4KYKQhdIAAAAadEVYdGljYzptb2RlbABBZG9iZSBSR0IgKDE5OTgpdBts0AAAAABJ
-RU5ErkJggg==" />
+<svg fill="#FFF" height="24" width="24" xmlns="http://www.w3.org/2000/svg">
+	<path fill="none" d="M0 0h24v24H0z"/>
+	<path d="M12 8.5c-.91 0-2.75.46-2.75 1.38v4.62h1.5V19h2.5v-4.5h1.5V9.88c0-.91-1.84-1.38-2.75-1.38z"/>
+	<path d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"/>
+	<circle cx="12" cy="6.5" r="1.5"/>
 </svg>
