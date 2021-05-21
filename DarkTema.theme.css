@@ -210,10 +210,9 @@
   /* BetterDiscord Icons */
 
   .standardSidebarView-3F1I7i .side-8zPYf6 [aria-controls*="-tab"]::before {
-    background: url("https://raw.githubusercontent.com/Second-san/Dark-Theme/main/Icons/SVG/Language.svg");
+    background: url("https://raw.githubusercontent.com/Second-san/Dark-Theme/main/Icons/SVG/settings.svg");
     
   }
-  
   .standardSidebarView-3F1I7i .side-8zPYf6 .bd-settings-tab[aria-controls="Settings-tab"]::before {
     background: url("https://raw.githubusercontent.com/Second-san/Dark-Theme/main/Icons/SVG/BetterDiscord.svg");
   }
