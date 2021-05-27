@@ -1,7 +1,7 @@
 /**
- * @name Dark Tema
+ * @name Dark Theme
  * @author Second#4131
- * @version 0.0.6
+ * @version 0.0.7
  * @description Changes discord enough to give a feeling of freshness while making it darker.
  * @source https://github.com/Second-san/Dark-Theme
  * @updateUrl https://raw.githubusercontent.com/Second-san/Dark-Theme/main/DarkTema.theme.css
@@ -9,7 +9,7 @@
 
 :root {
     --backgroundprimary: #131520;			
-	  --backgroundsecondary: #1b1f26;
+	--backgroundsecondary: #1b1f26;
     --accent: #3283cf;
 
     --message-padding: 10px;
@@ -32,12 +32,12 @@
     --background-modifier-hover: var(--background-alt);
     --background-modifier-active: var(--background-light);
     --channels-default: var(--text-normal);
-    --version: "0.0.6";
+    --version: "0.0.7";
   }
 
   .theme-dark {
     --background-primary: rgb(var(--backgroundprimary));
-	  --background-secondary: rgb(var(--backgroundsecondary));
+	--background-secondary: rgb(var(--backgroundsecondary));
     --background-light: #22262e;
     --background-light-alt: #1f2329;
     --background: #171a1f;
@@ -1185,7 +1185,7 @@
   
   
 .standardSidebarView-3F1I7i .side-8zPYf6 [aria-controls*="-tab"]::before {
-	background: url("https://raw.githubusercontent.com/Second-san/Dark-Theme/main/Icons/language.svg");
+	background: url("https://raw.githubusercontent.com/Second-san/Dark-Theme/main/Icons/Language.svg");
 }
 
 /* Titlebar Classic Icons */
@@ -1283,7 +1283,7 @@
 }
 /* Accessibility */
 .standardSidebarView-3F1I7i .side-8zPYf6 .item-PXvHYJ[aria-controls="Accessibility-tab"]::before {
-	background: url("https://raw.githubusercontent.com/Second-san/Dark-Theme/main/Icons/accessibility.svg");
+	background: url("https://raw.githubusercontent.com/Second-san/Dark-Theme/main/Icons/Accessibility.svg");
 }
 /* Notifications */
 .standardSidebarView-3F1I7i .side-8zPYf6 .item-PXvHYJ[aria-controls="Notifications-tab"]::before {
@@ -1295,7 +1295,7 @@
 }
 /* Language */
 .standardSidebarView-3F1I7i .side-8zPYf6 .item-PXvHYJ[aria-controls="Language-tab"]::before {
-	background: url("https://raw.githubusercontent.com/Second-san/Dark-Theme/main/Icons/language.svg");
+	background: url("https://raw.githubusercontent.com/Second-san/Dark-Theme/main/Icons/Language.svg");
 }
 /* Windows Settings */
 .standardSidebarView-3F1I7i .side-8zPYf6 .item-PXvHYJ[aria-controls="Windows-tab"]::before {
