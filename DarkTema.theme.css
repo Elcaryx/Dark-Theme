@@ -1,7 +1,7 @@
 /**
  * @name Dark Theme
  * @author Second#4131
- * @version 0.0.7
+ * @version 0.0.8
  * @description Changes discord enough to give a feeling of freshness while making it darker.
  * @source https://github.com/Second-san/Dark-Theme
  * @updateUrl https://raw.githubusercontent.com/Second-san/Dark-Theme/main/DarkTema.theme.css
@@ -9,8 +9,8 @@
 
 :root {
     --backgroundprimary: #131520;			
-	--backgroundsecondary: #1b1f26;
-    --accent: #3283cf;
+	  --backgroundsecondary: #1b1f26;
+    --accent: 50, 131, 207;
 
     --message-padding: 10px;
     --message-spacing: 10px;
@@ -32,12 +32,12 @@
     --background-modifier-hover: var(--background-alt);
     --background-modifier-active: var(--background-light);
     --channels-default: var(--text-normal);
-    --version: "0.0.7";
+    --version: "0.0.8";
   }
 
   .theme-dark {
     --background-primary: rgb(var(--backgroundprimary));
-	--background-secondary: rgb(var(--backgroundsecondary));
+	  --background-secondary: rgb(var(--backgroundsecondary));
     --background-light: #22262e;
     --background-light-alt: #1f2329;
     --background: #171a1f;
